@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.m3.scalaflavor4j</groupId>
+  <artifactId>scalaflavor4j</artifactId>
+  <version>0.1</version>
+  <versioning>
+    <versions>
+      <version>0.1</version>
+      <version>0.2</version>
+      <version>0.3</version>
+      <version>0.4</version>
+      <version>0.5</version>
+      <version>0.6</version>
+      <version>0.7</version>
+      <version>0.8</version>
+    </versions>
+    <lastUpdated>20120213102324</lastUpdated>
+  </versioning>
+</metadata>

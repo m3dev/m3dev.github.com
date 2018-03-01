@@ -1,0 +1,259 @@
+- title: お父さん今どこメーターの製作
+  by: ma2ge
+  github_id: ma2gedev
+  type: speakerdeck
+  source: '<script async class="speakerdeck-embed" data-id="79e0d48813394477afebb0700ce14326" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>'
+
+- title: RedDotRubyConfにCFP出してみた
+  by: morizyun
+  github_id: morizyun
+  type: speakerdeck
+  source: '<script async class="speakerdeck-embed" data-id="84acf6922af640e2942d07900574a36b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>'
+
+- title: DevOpsハッカソン参加レポート
+  by: changeworld
+  github_id: changeworld
+  type: slideshare
+  source: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/4HbqrrzOarnH5v" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/changeworlds/20151204-devops-hackathon" title="DevOpsハッカソン参加レポート" target="_blank">DevOpsハッカソン参加レポート</a> </strong> from <strong><a href="//www.slideshare.net/changeworlds" target="_blank">Takashi Takebayashi</a></strong> </div>'
+
+- title: 問題が起こった時、変えるのは人かそれともプロセスか？
+  by: changeworld
+  github_id: changeworld
+  type: slideshare
+  source: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/R3b8cvWEAzsyU" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/changeworlds/process-or-person" title="問題が起こった時に、変えるのは人かそれともプロセスか？" target="_blank">問題が起こった時に、変えるのは人かそれともプロセスか？</a> </strong> from <strong><a href="//www.slideshare.net/changeworlds" target="_blank">Takashi Takebayashi</a></strong> </div>'
+
+- title: Git の内部データ構造
+  by: shuhei
+  github_id: shuhei
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="0c8cf4ae375b490081fcb82eb633cdf7" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: Types as tests
+  by: mauhiz
+  github_id: mauhiz
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Types as tests" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1SK61-3WoEz9Np2LNBp2npdUib2tCuVdfxaISdUpUnM8%2Fedit%3Fusp%3Dsharing" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://docs.google.com/presentation/d/1SK61-3WoEz9Np2LNBp2npdUib2tCuVdfxaISdUpUnM8/edit?usp=sharing">docs.google.com</a></cite>'
+
+- title: Getting to Plan B
+  by: changeworld
+  github_id: changeworld
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Getting to Plan B" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fchangeworld.github.io%2Flt%2Fm3techtalk41%2F%23%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://changeworld.github.io/lt/m3techtalk41/#/">changeworld.github.io</a></cite>'
+
+- title: マイクロサービス運用の所感
+  by: seratch
+  github_id: seratch
+  type: slideshare
+  source: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/6QJeD5fxWqGN8y" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/seratch/microservices-ops" title="マイクロサービス運用の所感 #m3dev" target="_blank">マイクロサービス運用の所感 #m3dev</a> </strong> from <strong><a href="//www.slideshare.net/seratch" target="_blank">Kazuhiro Sera</a></strong> </div>'
+
+- title: Ruby on Rails vs Phoenix Framework
+  by: ma2gedev
+  github_id: ma2gedev
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="a2122de5e3c04c0c91c58d066143df39" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: 新言語 Kotlin で Android プログラミング（DroidKaigi 再演）
+  by: ntaro
+  github_id: ntaro
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="fafade9e78a545999d1f284554a8b2b1" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: 定型作業を自動化する話
+  by: changeworld
+  github_id: changeworld
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="定型作業を自動化する話" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fchangeworld.github.io%2Flt%2Fm3techtalk39%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://changeworld.github.io/lt/m3techtalk39/#/">changeworld.github.io</a></cite>'
+
+- title: 非エンジニアによるA/Bテスト
+  by: changeworld
+  github_id: changeworld
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="非エンジニアによるA/Bテスト" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fchangeworld.github.io%2Flt%2Fm3techtalk38%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://changeworld.github.io/lt/m3techtalk38/#/">changeworld.github.io</a></cite>'
+
+- title: reveal.jsとVisio2PDFと自分と
+  by: changeworld
+  github_id: changeworld
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Reveal.jsとvisio2pdfと自分と" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fchangeworld.github.io%2Flt%2Fm3techtalk35%2F%23%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://changeworld.github.io/lt/m3techtalk35/#/">changeworld.github.io</a></cite>'
+
+- title: 3分 gem クッキング
+  by: morizyun
+  github_id: morizyun
+  type: slideshare
+  source: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/BXpAhrb90pUDFZ" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/morizyun/3-gem" title="3分 gem クッキング" target="_blank">3分 gem クッキング</a> </strong> from <strong><a href="//www.slideshare.net/morizyun" target="_blank">Zyunnosuke Mori</a></strong> </div>'
+
+- title: What's this -- いまさら聞けない JavaScript の this
+  by: shuhei
+  github_id: shuhei
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="70a3d8004390013257d62242f16da36d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: Guide to build a realtime application using Phoenix on Heroku
+  by: ma2gedev
+  github_id: ma2gedev
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="42325c7043100132eaee7680f69f8570" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: たぶんモダンな Web 開発
+  by: namutaka
+  github_id: namutaka
+  type: slideshare
+  source: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/thhDrfiI6obTR0" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tak-nakamura/tech-tall-modernwebdev" title="多分モダンなWebアプリ開発" target="_blank">多分モダンなWebアプリ開発</a> </strong> from <strong><a href="//www.slideshare.net/tak-nakamura" target="_blank">tak-nakamura</a></strong> </div>'
+
+- title: Scala μ-benchmark “Trust no-one, bench everything.”
+  by: mauhiz
+  github_id: mauhiz
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Scala microbenchmarking" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1WyTLZsIaSTLStaTGD6xaZU3c9SOwTSg7MRkqJSrEvHo%2Fedit%3Fusp%3Dsharing" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://docs.google.com/presentation/d/1WyTLZsIaSTLStaTGD6xaZU3c9SOwTSg7MRkqJSrEvHo/edit?usp=sharing">docs.google.com</a></cite>'
+
+- title: Intro to RxScala
+  by: lloydmeta
+  github_id: lloydmeta
+  type: link
+  source: http://beachape.com/rx-scala-intro/
+
+- title: Introduction to Grunt
+  by: shuhei
+  github_id: shuhei
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="39e78f00fade0131d88d6a0d18b48761" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: 'Guess the Country: Playing with Twitter Streaming API'
+  by: cb372
+  github_id: cb372
+  type: slideshare
+  source: '<iframe src="//www.slideshare.net/slideshow/embed_code/36835534" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/cb372/guess-the-country" title="Guess the Country - Playing with Twitter Streaming API" target="_blank">Guess the Country - Playing with Twitter Streaming API</a> </strong> from <strong><a href="http://www.slideshare.net/cb372" target="_blank">Chris Birchall</a></strong> </div>'
+
+- title: Start ES6 Modules Today
+  by: shuhei
+  github_id: shuhei
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="b07645a0fadf0131d88c6a0d18b48761" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: Find Security Issues In Your Rails Applications
+  by: ma2gedev
+  github_id: ma2gedev
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="4d87d190bee40131ae3866fdbbb32492" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: ScalaCache
+  by: cb372
+  github_id: cb372
+  type: slideshare
+  source: '<iframe src="//www.slideshare.net/slideshow/embed_code/33839042" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/cb372/scala-cache" title="ScalaCache: simple caching in Scala" target="_blank">ScalaCache: simple caching in Scala</a> </strong> from <strong><a href="http://www.slideshare.net/cb372" target="_blank">Chris Birchall</a></strong> </div>'
+
+- title: 'Skinny Framework: Rapid Development in Scala'
+  by: seratch
+  github_id: seratch
+  type: speakerdeck
+  source: '<iframe src="http://www.slideshare.net/slideshow/embed_code/32751090" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>'
+
+- title: Rake でログ解析
+  by: namu
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="de12a17070f9013163163abcd19aa7e9" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: Introduction to React
+  by: shuhei
+  github_id: shuhei
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="868ac76063e60131e1ad6e04b6941de4" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: How To Create Chrome Extensions
+  by: namu
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="faa7c4404b900131da647ee435197464" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: Is A Elixir Environment enough for development?
+  by: ma2gedev
+  github_id: ma2gedev
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="3fdbfb304aff01314fe962616f9bc0e7" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: Load testing with gatling
+  by: cb372
+  github_id: cb372
+  type: slideshare
+  source: '<iframe src="http://www.slideshare.net/slideshow/embed_code/28955608" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>'
+
+- title: WriteExcel について
+  by: Hiroyuki Asabatake
+  type: slideshare
+  source: '<iframe src="http://www.slideshare.net/slideshow/embed_code/28956461" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>'
+
+- title: テストの運用について
+  by: seratch
+  github_id: seratch
+  type: slideshare
+  source: '<iframe src="http://www.slideshare.net/slideshow/embed_code/27559929" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>'
+
+- title: 'Bundle-star: How to appreciate OSS projects'
+  by: ma2gedev
+  github_id: ma2gedev
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="71c867f009990131a2ab4e918f15db03" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: Testing JavaScript
+  by: shuhei
+  github_id: shuhei
+  type: link
+  source: http://shuheikagawa.com/talks/20131025_Testing_JavaScript/#1
+
+- title: Backbone.js のはなし
+  by: shuhei
+  github_id: shuhei
+  type: link
+  source: http://shuheikagawa.com/talks/20130816_Introduction_to_Backbone/#1
+
+- title: 'Phone Home: A client-side error collection system'
+  by: cb372
+  github_id: cb372
+  type: slideshare
+  source: '<iframe src="http://www.slideshare.net/slideshow/embed_code/25296752" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>'
+
+- title: Java で使う CoffeeScript と WebJars の話
+  by: seratch
+  github_id: seratch
+  type: html
+  source:
+    <p><a href="http://www.ninjaframework.org/" target="_blank">Ninja framework</a> を使った Servlet アプリの実装を紹介しました。</p>
+    <p>また <a href="https://code.google.com/p/wro4j/" target="_blank">wro4j</a> による CoffeeScript のランタイムコンパイルの様子と
+      <a href="http://www.webjars.org/" target="_blank">WebJars</a> による JavaScript ファイルの解決についてデモしました。</p>
+    <p>ソースコードはこちらでご覧いただけます。</p>
+    <p><a href="https://github.com/seratch/ninja-coffee-example" target="_blank">https://github.com/seratch/ninja-coffee-example</a></p>
+
+- title: Facing Technical Debt with Capybara and Mechanize
+  by: ma2gedev
+  github_id: ma2gedev
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="e447a8d0d25b01300cdc16e7346fde45" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: Skinny Controllers, Skinny Models
+  by: seratch
+  github_id: seratch
+  type: slideshare
+  source: '<iframe src="http://www.slideshare.net/slideshow/embed_code/23939392" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>'
+
+- title: Branching strategies
+  by: cb372
+  github_id: cb372
+  type: slideshare
+  source: '<iframe src="http://www.slideshare.net/slideshow/embed_code/23218590" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>'
+
+- title: オンライン授業の体験談：Coursera, Functional Programming With Scala
+  by: btakashi
+  github_id: btakashi
+  type: slideshare
+  source: '<iframe src="http://www.slideshare.net/slideshow/embed_code/22631437" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>'
+
+- title: Node.js + WebSocket でテザリングしてみた
+  by: shuhei
+  github_id: shuhei
+  type: speakerdeck
+  source: '<script async class="speakerdeck-embed" data-id="cf71f0c02105013151e24a4948aa6526" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>'
+
+- title: Try Rails 4
+  by: ma2ge
+  github_id: ma2gedev
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="f6a59ea0a51f0130593152188aa18b52" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

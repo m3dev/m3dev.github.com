@@ -1,0 +1,16 @@
+%h3
+  %i.glyphicon.glyphicon-facetime-video
+  &nbsp;
+  過去の M3 Tech Talk
+%hr
+
+%p
+  過去の M3 Tech Talk の発表スライドなどを紹介します。
+%p
+  社内限定の情報を含む場合や履歴の残らなかったデモなどもあったため、こちらにはあるものはほんの一部です。
+
+- data.talks.each do |talk|
+  - author = talk.github_id ? link_to("@#{talk.by}", "https://github.com/#{talk.github_id}", target: '_blank') : talk.by
+
+  %h4 #{talk.title} by #{author}
+  = talk_slides talk
