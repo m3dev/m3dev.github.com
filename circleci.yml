@@ -2,7 +2,7 @@
 general:
   branches:
     ignore:
-      - gh-pages
+      - master
 
 machine:
   timezone: Asia/Tokyo
