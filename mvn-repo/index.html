@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+
+  <title>m3dev.github.com</title>
+
+  <style type="text/css">
+    body {
+      margin-top: 1.0em;
+      background-color: #FFFFFF;
+      font-family: Helvetica, Arial, FreeSans, san-serif;
+      color: #000000;
+    }
+    #container {
+      margin: 0 auto;
+      width: 700px;
+    }
+    h1 { font-size: 3.8em; color: #034baa; margin-bottom: 3px; }
+    h1 .small { font-size: 0.4em; }
+    h1 a { text-decoration: none }
+    h2 { font-size: 1.5em; color: #034baa; }
+    h3 { text-align: center; color: #034baa; }
+    a { color: #034baa; }
+    .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
+    .download { float: right; }
+    pre { background: #000; color: #fff; padding: 15px;}
+    hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
+    .footer { text-align:center; padding-top:30px; font-style: italic; }
+  </style>
+</head>
+
+<body>
+
+  <a href="http://github.com/m3dev/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+
+  <div id="container">
+
+    <div class="description">
+      Maven Repository 
+    </div>
+
+    <p>
+    You can see what are listed in the repository at <a href="https://github.com/m3dev/m3dev.github.com/tree/master/mvn-repo">https://github.com/m3dev/m3dev.github.com/tree/master/mvn-repo</a>
+
+    <pre>
+resolvers ++= Seq(
+  "m3dev.github.com releases"  at "http://m3dev.github.com/mvn-repo/releases",
+  "m3dev.github.com snapshots" at "http://m3dev.github.com/mvn-repo/snapshots"
+)
+    </pre>
+    </p>
+
+    <p>
+    <pre>
+&lt;repositories&gt;
+  &lt;repository&gt;
+    &lt;id&gt;m3dev.github.com releases&lt;/id&gt;
+    &lt;name&gt;m3dev.github.com releases&lt;/name&gt;
+    &lt;url&gt;http://m3dev.github.com/mvn-repo/releases&lt;/url&gt;
+  &lt;/repository&gt;
+  &lt;repository&gt;
+    &lt;id&gt;m3dev.github.com snapshots&lt;/id&gt;
+    &lt;name&gt;m3dev.github.com snapshots&lt;/name&gt;
+    &lt;url&gt;http://m3dev.github.com/mvn-repo/snapshots&lt;/url&gt;
+  &lt;/repository&gt;
+&lt;/repositories&gt;
+    </pre>
+    </p>
+
+    <h2>Contact</h2>
+    <p><a href="http://corporate.m3.com/">M3, Inc.</a><br/></p>
+
+    <div class="footer">
+      get the source code on GitHub : <a href="https://github.com/m3dev/m3dev.github.com">m3dev/m3dev.github.com</a>
+    </div>
+
+  </div>
+</body>
+</html>
+
