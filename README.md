@@ -48,4 +48,12 @@ YAML の文字列中に `:` を書く際は文字列全体を `''` で囲って�
 
 #### デプロイ方法
 
-GitHub の develop ブランチに push すると、Wercker が自動でデプロイしてくれます。
+GitHub の develop ブランチに push すると、CircleCI が自動でデプロイしてくれるものの、自動デプロイは失敗するので手動で以下お願いします。。。
+
+```
+bundle exec middleman deploy
+```
+
+やっていることとしては github の master branch へプッシュします。
+GigHub Pages で master が反映されるように設定してあるので、これによってページが更新されます。
+
